@@ -1036,4 +1036,17 @@
         -webkit-filter: invert(1);
         filter: invert(1);
     }
+
+    /* bottom bar for mobile */
+
+    @media screen and (min-width: 880px) {
+        .container .article-actions {
+            background: var(--theme-top-bar-background, #222222);
+        }
+    }
+
+    .container .article-actions {
+        background: var(--theme-background, #222222);
+        background: #222222;
+    }
 }
