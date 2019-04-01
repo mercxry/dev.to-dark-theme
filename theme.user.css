@@ -2,8 +2,11 @@
 @name           dev.to-dark-theme
 @namespace      https://github.com/mercxry/dev.to-dark-theme
 @version        1.0.0
-@description    Simple Dark Theme for dev.to: https://dev.to/mercxry/dark-theme-for-devto-14e9
+@description    Simple Dark Theme for dev.to
 @author         mercxry
+@homepageURL    https://dev.to/mercxry/dark-theme-for-devto-14e9
+@supportURL     https://github.com/mercxry/dev.to-dark-theme
+@updateURL      https://github.com/mercxry/dev.to-dark-theme/blob/master/theme.user.css
 ==/UserStyle== */
 
 @-moz-document domain("dev.to") {
